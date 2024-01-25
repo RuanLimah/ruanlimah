@@ -27,3 +27,5 @@
     </a>
   </p>
 </div>
+
+![Snake animation](https://github.com/ruanlimah/ruanlimah/blob/output/github-contribution-grid-snake.svg)
