@@ -17,14 +17,3 @@
   <a href = "mailto:limahruan@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-##
-
-<div>
-  <p align="center">
-    <a href="https://github.com/ruanlimah">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruanlimah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruanlimah&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
-</div>
