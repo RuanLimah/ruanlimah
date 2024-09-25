@@ -1,4 +1,4 @@
-## Fala dev! Eu sou o Ruan, desenvolvedor front-end e estudante de engenharia de software.
+## Fala dev! Eu sou o Ruan, desenvolvedor de softwares e estudante de engenharia de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
